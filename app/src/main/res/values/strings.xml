@@ -2,4 +2,5 @@
     <string name="app_name">Training-Layouts</string>
     <string name="my_description">Seja muito bem vindo(a), tenho 28 anos, sou casado e moro em São Paulo Capital.\n -Experiencia com Desenvolvimento Android Nativo em Kotlin\n -Clean Architecture, MVVM, ViewModel. \n-Android SDK, Graddle, Data Binding.\n -Publicação de APP\'s na Google Play Store.\n -GIT e GITHUB, Bitbucket. \n-Experiência em metodologias Àgeis como Scrum e Kanban. \n-Consumo de API\'s RESTful. \n-Tradução de APP\'s utilizando string\'s. \n-Animações dentro do APP.</string>
     <string name="tvBirthday">22/06/1993</string>
+    <string name="tv_name">Pablo Rodrigues</string>
 </resources>
